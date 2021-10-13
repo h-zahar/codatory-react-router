@@ -1,0 +1,8 @@
+.text-title {
+    color: #130f40;
+    text-decoration: none;
+}
+
+.text-title:hover {
+    color: #198754;
+}

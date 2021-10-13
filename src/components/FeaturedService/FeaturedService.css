@@ -1,0 +1,12 @@
+.text-hover {
+    color: #130f40;
+    cursor: default;
+}
+
+.text-hover:hover {
+    color: #198754;
+}
+
+.text-details {
+    color: #4b5981;
+}
