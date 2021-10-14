@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "fa-solid fa-envelope",
+        "title": "Email Address",
+        "address": "support@example.com"
+    },
+    {
+        "icon": "fa-solid fa-phone",
+        "title": "Phone Number",
+        "address": "support@example.com"
+    },
+    {
+        "icon": "fa-solid fa-location-pin",
+        "title": "Location",
+        "address": "support@example.com"
+    }
+]

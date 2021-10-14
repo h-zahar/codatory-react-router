@@ -1,4 +1,7 @@
 import React from 'react';
+import TopInstructors from '../TopInstructors/TopInstructors';
+import WhoAreWe from '../WhoAreWe/WhoAreWe';
+import WhyTheBest from '../WhyTheBest/WhyTheBest';
 
 const About = () => {
     let id = [1, 2, 3];
@@ -11,6 +14,11 @@ const About = () => {
                 <img className="mx-2 my-2" style={{height: '410px', maxWidth: '330px', borderRadius: '15px'}} src={`./images/about/groups/group-${id[1]}.jpg`} alt="" />
                 <img className="mx-2 my-2" style={{height: '365px', maxWidth: '330px', borderRadius: '15px'}} src={`./images/about/groups/group-${id[2]}.jpg`} alt="" />
             </div>
+
+            <WhoAreWe />
+            <WhyTheBest />
+            <TopInstructors />
+
         </div>
     )
 }
