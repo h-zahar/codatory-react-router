@@ -20,7 +20,7 @@ const Service = (props) => {
                             initialRating={stars} 
                             readonly 
                             /><span className="ms-2 text-details">{stars} ({reviews})</span>
-                            <p className="mt-3"><span className="text-details"><i class="me-1 fa-regular fa-user"></i>{enrolled}</span><span className="m-3 text-details"><i class="me-1 fa-regular fa-clock"></i>{duration}</span></p>
+                            <p className="mt-3"><span className="text-details"><i className="me-1 fa-regular fa-user"></i>{enrolled}</span><span className="m-3 text-details"><i className="me-1 fa-regular fa-clock"></i>{duration}</span></p>
                             </Card.Text>
                             <div className="mt-3 mb-2 pt-4 border-top d-flex justify-content-around">
                             <p className="my-auto text-details"><strong>${cost}</strong></p>
