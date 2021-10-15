@@ -29,11 +29,11 @@ const Footer = () => {
                             <span className="fs-5">Codatory</span>
                         </div>
                             <div className="mt-3 text-light d-flex justify-content-center">
-                                <a href="https://www.facebook.com"><i className="mx-2 fa-brands fa-facebook-f"></i></a>
-                                <a href="https://www.linkedin.com"><i className="mx-2 fa-brands fa-linkedin-in"></i></a>
-                                <a href="https://twitter.com"><i class="mx-2 fa-brands fa-twitter"></i></a>
-                                <a href="https://www.instagram.com"><i class="mx-2 fa-brands fa-instagram"></i></a>
-                                <a href="https://www.youtube.com"><i class="mx-2 fa-brands fa-youtube"></i></a>
+                                <a target="_blank" href="https://www.facebook.com"><i className="mx-2 fa-brands fa-facebook-f"></i></a>
+                                <a target="_blank" href="https://www.linkedin.com"><i className="mx-2 fa-brands fa-linkedin-in"></i></a>
+                                <a target="_blank" href="https://twitter.com"><i class="mx-2 fa-brands fa-twitter"></i></a>
+                                <a target="_blank" href="https://www.instagram.com"><i class="mx-2 fa-brands fa-instagram"></i></a>
+                                <a target="_blank" href="https://www.youtube.com"><i class="mx-2 fa-brands fa-youtube"></i></a>
                         </div>
                     </div>
 
