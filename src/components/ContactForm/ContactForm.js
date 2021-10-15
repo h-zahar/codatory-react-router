@@ -6,7 +6,7 @@ const ContactForm = () => {
         <div>
             <div style={{ maxWidth: '400px', minWidth: '300px', backgroundColor: '#fff' }} className="py-4 px-3 shadow border">
                 <Form>
-                    <FormGroup className="mb-3">
+                    <FormGroup>
                         <Form.Label></Form.Label>
                         <Form.Control className="bg-light" type="text" placeholder="Enter Name" />
                         <Form.Text className="text-muted">

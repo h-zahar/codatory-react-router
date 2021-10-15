@@ -1,0 +1,15 @@
+a {
+    color: unset;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+a:hover {
+    color: unset;
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
+
+.hov-link:hover {
+    color: white;
+}

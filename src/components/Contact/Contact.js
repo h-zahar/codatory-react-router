@@ -8,7 +8,7 @@ const Contact = () => {
         <div>
             <div className="bg-lightdow">
                 <Container>
-                    <div className="d-flex justify-content-center flex-wrap align-items-center">
+                    <div className="py-5 d-flex justify-content-center flex-wrap align-items-center">
                         <LeaveAMessage />
                         <ContactForm />
                     </div>

@@ -10,7 +10,16 @@ const Header = () => {
                 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                     <Container className="px-5 py-3">
                         <LinkContainer exact to="/">
-                            <Navbar.Brand className="ms-5">Codatory</Navbar.Brand>
+                            <Navbar.Brand className="ms-5">
+                            <img
+                                alt=""
+                                src="./logo/logo.svg"
+                                width="38"
+                                height="38"
+                                className="d-inline-block align-center"
+                                />{' '}
+                            Codatory
+                            </Navbar.Brand>
                         </LinkContainer>
 
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

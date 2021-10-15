@@ -25,7 +25,7 @@ const Services = () => {
                     services.map(info => { return <Service key={info.id} info={info} />})
                 }
             </div>
-            <p className="text-center mt-4"><strong>Coming Soon More...</strong></p>
+            <p className="text-center mt-4 mb-5"><strong>Coming Soon More...</strong></p>
         </div>
     )
 }
