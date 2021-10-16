@@ -13,7 +13,7 @@ const LeaveAMessage = () => {
         <div>
             <div className="m-3">
                 <h1>Leave Us a Message</h1>
-                <p style={{maxWidth: '450px', minWidth: '220px'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus debitis iusto tempore animi repellendus dolores. Voluptatibus ex assumenda voluptas fuga?</p>
+                <p style={{maxWidth: '450px', minWidth: '220px'}}>Wanna reach out? So simple! fill out the form and your work is done. We are so responsive just as our site is with latest CSS and Bootstrap:3</p>
                 <div>
                     {
                         address.map(iAddress => {

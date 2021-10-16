@@ -7,11 +7,11 @@
     {
         "icon": "fa-solid fa-phone",
         "title": "Phone Number",
-        "address": "support@example.com"
+        "address": "781-683-7262"
     },
     {
         "icon": "fa-solid fa-location-pin",
         "title": "Location",
-        "address": "support@example.com"
+        "address": "119/A, Boston, massachusetts"
     }
 ]
