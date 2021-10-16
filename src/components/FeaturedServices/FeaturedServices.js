@@ -3,6 +3,7 @@ import { Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import FeaturedService from '../FeaturedService/FeaturedService';
 import './FeaturedServices.css';
+import '../../App.css';
 
 const FeaturedServices = () => {
     const [featured, setFeatured] = useState([]);

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import TheBestData from '../TheBestData/TheBestData';
+import '../../App.css';
 
 const WhyTheBest = () => {
     const [info, setInfo] = useState([]);

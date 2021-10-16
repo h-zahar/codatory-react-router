@@ -1,0 +1,25 @@
+.text-highname {
+    color: #130f40;
+}
+.text-lightdow {
+    color: #f7f7f7;
+}
+.text-paragraph {
+    color: #696969;
+}
+.text-footer {
+    color: #100e25;
+}  
+
+.bg-highname {
+    background-color: #130f40;
+}
+.bg-lightdow {
+    background-color: #f7f7f7;
+}
+.bg-paragraph {
+    background-color: #696969;
+}
+.bg-footer {
+    background-color: #100e25;
+}  

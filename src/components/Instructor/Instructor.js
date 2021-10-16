@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
+import '../../App.css';
 
 const Instructor = (props) => {
     const {img_i, name, designation} = props.instructor;

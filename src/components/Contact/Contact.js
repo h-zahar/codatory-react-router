@@ -2,6 +2,7 @@ import React from 'react';
 import { Container } from 'react-bootstrap';
 import ContactForm from '../ContactForm/ContactForm';
 import LeaveAMessage from '../LeaveAMessage/LeaveAMessage';
+import '../../App.css';
 
 const Contact = () => {
     return (

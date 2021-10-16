@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Instructor from '../Instructor/Instructor';
+import '../../App.css';
 
 const TopInstructors = () => {
     const [iInfo, setIinfo] = useState([]);
